@@ -1,0 +1,3 @@
+/Users/nesoaniagboso/CLionProjects/Thread_pools/cmake-build-debug/CMakeFiles/Thread_pools.dir
+/Users/nesoaniagboso/CLionProjects/Thread_pools/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nesoaniagboso/CLionProjects/Thread_pools/cmake-build-debug/CMakeFiles/rebuild_cache.dir
