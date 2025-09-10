@@ -1,0 +1,1 @@
+These are my notes for learning Multithreaded programming with Modern C++. I followed James Raynard's course on Udemy, and I found it to be an excellent resource for individuals looking to get started with writing code that harnesses the power of modern hardware ;)
